@@ -1,2 +1,2 @@
 # learning-django
-Learning django form http://trydjango.com
+Learning django from http://trydjango.com
